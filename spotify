@@ -1,0 +1,117 @@
+ {
+              "collaborative" : false,
+              "description" : "This is the official Radio 1 Playlist, updated weekly. \n<a href=\"http://www.bbc.co.uk/radio1\">Head to Radio 1 for even more music</a>.",
+              "external_urls" : {
+                "spotify" : "http://open.spotify.com/user/bbc_playlister/playlist/4ozvRrHgk23R4syZv52XNz"
+              },
+              "followers" : {
+                "href" : null,
+                "total" : 278904
+              },
+              "href" : "https://api.spotify.com/v1/users/bbc_playlister/playlists/4ozvRrHgk23R4syZv52XNz",
+              "id" : "4ozvRrHgk23R4syZv52XNz",
+              "images" : [ {
+                "height" : 300,
+                "url" : "https://i.scdn.co/image/262a3e3a75c076905d87c1745c6017951b322137",
+                "width" : 300
+              } ],
+              "name" : "Radio 1 Playlist (BBC)",
+              "owner" : {
+                "external_urls" : {
+                  "spotify" : "http://open.spotify.com/user/bbc_playlister"
+                },
+                "href" : "https://api.spotify.com/v1/users/bbc_playlister",
+                "id" : "bbc_playlister",
+                "type" : "user",
+                "uri" : "spotify:user:bbc_playlister"
+              },
+              "public" : true,
+              "snapshot_id" : "6aVu2cp1VJxJFo4hEuWzkhY6BydEWrh1V2blh8dyfmg38h6TvBat80gOMvN77niL",
+              "tracks" : {
+                "href" : "https://api.spotify.com/v1/users/bbc_playlister/playlists/4ozvRrHgk23R4syZv52XNz/tracks?offset=0&limit=100",
+                "items" : [ {
+                  "added_at" : "2015-02-09T12:01:03Z",
+                  "added_by" : {
+                    "external_urls" : {
+                      "spotify" : "http://open.spotify.com/user/bbc_playlister"
+                    },
+                    "href" : "https://api.spotify.com/v1/users/bbc_playlister",
+                    "id" : "bbc_playlister",
+                    "type" : "user",
+                    "uri" : "spotify:user:bbc_playlister"
+                  },
+                  "track" : {
+                    "album" : {
+                      "album_type" : "single",
+                      "available_markets" : [ "GB", "IE" ],
+                      "external_urls" : {
+                        "spotify" : "https://open.spotify.com/album/7iGC1ByZUb4BJiVjtAoVKe"
+                      },
+                      "href" : "https://api.spotify.com/v1/albums/7iGC1ByZUb4BJiVjtAoVKe",
+                      "id" : "7iGC1ByZUb4BJiVjtAoVKe",
+                      "images" : [ {
+                        "height" : 640,
+                        "url" : "https://i.scdn.co/image/945ff698347390ee0fef028dccb7949f54989992",
+                        "width" : 640
+                      }, {
+                        "height" : 300,
+                        "url" : "https://i.scdn.co/image/166e03da23f1f24093091eb20a1519c8ea9deb98",
+                        "width" : 300
+                      }, {
+                        "height" : 64,
+                        "url" : "https://i.scdn.co/image/96fcb67bf9fb64325d3836867321ed714dc491a5",
+                        "width" : 64
+                      } ],
+                      "name" : "Doing It (feat. Rita Ora)",
+                      "type" : "album",
+                      "uri" : "spotify:album:7iGC1ByZUb4BJiVjtAoVKe"
+                    },
+                    "artists" : [ {
+                      "external_urls" : {
+                        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                      },
+                      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                      "id" : "25uiPmTg16RbhZWAqwLBy5",
+                      "name" : "Charli XCX",
+                      "type" : "artist",
+                      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }, {
+                      "external_urls" : {
+                        "spotify" : "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+                      },
+                      "href" : "https://api.spotify.com/v1/artists/5CCwRZC6euC8Odo6y9X8jr",
+                      "id" : "5CCwRZC6euC8Odo6y9X8jr",
+                      "name" : "Rita Ora",
+                      "type" : "artist",
+                      "uri" : "spotify:artist:5CCwRZC6euC8Odo6y9X8jr"
+                    } ],
+                    "available_markets" : [ "GB", "IE" ],
+                    "disc_number" : 1,
+                    "duration_ms" : 228520,
+                    "explicit" : false,
+                    "external_ids" : {
+                      "isrc" : "GBAHS1500002"
+                    },
+                    "external_urls" : {
+                      "spotify" : "https://open.spotify.com/track/2Vg4trZiWZsTlx41DKgRuf"
+                    },
+                    "href" : "https://api.spotify.com/v1/tracks/2Vg4trZiWZsTlx41DKgRuf",
+                    "id" : "2Vg4trZiWZsTlx41DKgRuf",
+                    "name" : "Doing It (feat. Rita Ora)",
+                    "popularity" : 44,
+                    "preview_url" : "https://p.scdn.co/mp3-preview/0c9d730d3c3e270f00656ec253eed9e0707c6647",
+                    "track_number" : 1,
+                    "type" : "track",
+                    "uri" : "spotify:track:2Vg4trZiWZsTlx41DKgRuf"
+                  }
+                }, {
+                  "added_at" : "2015-02-09T12:01:03Z",
+                  "added_by" : {
+                    "external_urls" : {
+                      "spotify" : "http://open.spotify.com/user/bbc_playlister"
+                    },
+                    "href" : "https://api.spotify.com/v1/users/bbc_playlister",
+                    "id" : "bbc_playlister",
+                    "type" : "user",
+                    "uri" : "spotify:user:bbc_playlister"
+                  },
